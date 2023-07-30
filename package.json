@@ -1,6 +1,6 @@
 {
-  "name": "bitscraft",
-  "version": "0.0.0",
+  "name": "bitscraft-console",
+  "version": "1.0.0",
   "description": "Bits Craft",
   "main": "./dist/main.js",
  
